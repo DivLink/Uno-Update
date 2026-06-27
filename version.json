@@ -1,7 +1,8 @@
 {
-  "latestVersion": "2.1.1",
+  "latestVersion": "v11",
   "minVersion": "2.1",
-  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.1/app-debug.apk",
-  "releaseNotes": "Initial release",
+  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v11/app-debug.apk",
+  "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v11/app.ipa",
+  "releaseNotes": "Latest update",
   "forceUpdate": true
 }
