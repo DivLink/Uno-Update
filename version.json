@@ -1,8 +1,8 @@
 {
-  "latestVersion": "v14",
+  "latestVersion": "v15",
   "minVersion": "2.1",
-  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v14/app-debug.apk",
-  "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v14/app.ipa",
+  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v15/app-debug.apk",
+  "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v15/app.ipa",
   "releaseNotes": "Latest update",
   "forceUpdate": true
 }
