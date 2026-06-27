@@ -1,7 +1,7 @@
 {
   "latestVersion": "v2.1.2",
   "minVersion": "2.1",
-  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.2/app-release-unsigned.apk",
+  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.2/app-debug.apk",
   "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.2/app.ipa",
   "releaseNotes": "Latest update",
   "forceUpdate": true
