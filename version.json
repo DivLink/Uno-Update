@@ -1,8 +1,8 @@
 {
-  "latestVersion": "v2.1.6",
+  "latestVersion": "v2.1.7",
   "minVersion": "2.1.0",
-  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.6/app-release.apk",
-  "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.6/app.ipa",
+  "apkUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.7/app-release.apk",
+  "ipaUrl": "https://github.com/DivLink/Uno-Update/releases/download/v2.1.7/app.ipa",
   "releaseNotes": "Latest update",
   "forceUpdate": true
 }
